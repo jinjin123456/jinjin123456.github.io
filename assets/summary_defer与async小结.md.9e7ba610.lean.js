@@ -1,1 +1,0 @@
-import{_ as s,c as n,o as a,d as o}from"./app.02d7bd04.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"summary/defer\u4E0Easync\u5C0F\u7ED3.md"}'),l={name:"summary/defer\u4E0Easync\u5C0F\u7ED3.md"},t=o("",3),e=[t];function p(r,c,y,i,D,F){return a(),n("div",null,e)}var g=s(l,[["render",p]]);export{d as __pageData,g as default};
