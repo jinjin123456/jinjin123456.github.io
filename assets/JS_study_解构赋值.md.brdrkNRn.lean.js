@@ -1,0 +1,1 @@
+import{_ as l,c as i,o as e,R as t}from"./chunks/framework.BmksyVjO.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"JS/study/解构赋值.md","filePath":"JS/study/解构赋值.md"}'),a={name:"JS/study/解构赋值.md"},s=t("",8),n=[s];function u(o,h,r,d,p,c){return e(),i("div",null,n)}const f=l(a,[["render",u]]);export{m as __pageData,f as default};
