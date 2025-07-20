@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as n}from"./chunks/framework.BmksyVjO.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"frontend/05网络协议与安全/index.md","filePath":"frontend/05网络协议与安全/index.md"}'),r={name:"frontend/05网络协议与安全/index.md"};function a(o,d,s,c,i,f){return n(),t("div")}const m=e(r,[["render",a]]);export{_ as __pageData,m as default};
