@@ -1,1 +1,0 @@
-import{_ as e,c as o,o as t}from"./chunks/framework.BmksyVjO.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"JS/study/monorepo实践-web端.md","filePath":"JS/study/monorepo实践-web端.md"}'),r={name:"JS/study/monorepo实践-web端.md"};function a(n,s,c,p,_,d){return t(),o("div")}const f=e(r,[["render",a]]);export{i as __pageData,f as default};
