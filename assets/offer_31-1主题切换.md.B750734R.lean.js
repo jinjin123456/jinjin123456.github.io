@@ -1,1 +1,0 @@
-import{_ as s,c as i,o as a,R as t}from"./chunks/framework.BmksyVjO.js";const y=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"offer/31-1主题切换.md","filePath":"offer/31-1主题切换.md"}'),n={name:"offer/31-1主题切换.md"},l=t("",31),h=[l];function e(k,p,r,d,g,E){return a(),i("div",null,h)}const c=s(n,[["render",e]]);export{y as __pageData,c as default};
