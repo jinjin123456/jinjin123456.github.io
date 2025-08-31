@@ -1,0 +1,1 @@
+import{_ as e,c as o,o as d,R as i}from"./chunks/framework.BmksyVjO.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"offer/11多窗口方案.md","filePath":"offer/11多窗口方案.md"}'),c={name:"offer/11多窗口方案.md"},l=i("",20),a=[l];function n(t,r,s,u,h,w){return d(),o("div",null,a)}const P=e(c,[["render",n]]);export{f as __pageData,P as default};

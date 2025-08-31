@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as n}from"./chunks/framework.BmksyVjO.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"frontend/04前端开发框架/index.md","filePath":"frontend/04前端开发框架/index.md"}'),r={name:"frontend/04前端开发框架/index.md"};function a(o,d,s,c,i,f){return n(),t("div")}const m=e(r,[["render",a]]);export{_ as __pageData,m as default};

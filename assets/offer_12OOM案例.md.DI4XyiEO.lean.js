@@ -1,0 +1,1 @@
+import{_ as e,c as a,o,R as l}from"./chunks/framework.BmksyVjO.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"offer/12OOM案例.md","filePath":"offer/12OOM案例.md"}'),r={name:"offer/12OOM案例.md"},i=l("",13),t=[i];function n(p,s,d,c,h,m){return o(),a("div",null,t)}const f=e(r,[["render",n]]);export{u as __pageData,f as default};
