@@ -1,1 +1,0 @@
-import{_ as s,c as i,o as a,R as n}from"./chunks/framework.BmksyVjO.js";const y=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"offer/32-1流程助手.md","filePath":"offer/32-1流程助手.md"}'),l={name:"offer/32-1流程助手.md"},p=n("",83),h=[p];function t(k,e,E,r,d,g){return a(),i("div",null,h)}const o=s(l,[["render",t]]);export{y as __pageData,o as default};
