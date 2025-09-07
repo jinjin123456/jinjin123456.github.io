@@ -1,1 +1,0 @@
-import{_ as s,c as i,o as a,R as n}from"./chunks/framework.BmksyVjO.js";const E=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"offer/21组件化开发.md","filePath":"offer/21组件化开发.md"}'),t={name:"offer/21组件化开发.md"},l=n("",99),e=[l];function h(p,k,r,o,d,g){return a(),i("div",null,e)}const y=s(t,[["render",h]]);export{E as __pageData,y as default};
